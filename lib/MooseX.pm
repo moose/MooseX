@@ -43,11 +43,8 @@ I am also usually active on irc, as 'ether' at C<irc.perl.org>.
 
 =head1 SEE ALSO
 
-=begin :list
-
+=for :list
 * L<Moose::Manual::MooseX>
 * L<MooseY>
-
-=end :list
 
 =cut
