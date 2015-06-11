@@ -2,6 +2,7 @@ use strict;
 use warnings;
 package MooseX;
 # ABSTRACT: Document the MooseX namespace
+# KEYWORDS: Moose documentation namespace nomenclature best-practices extensions ecosystem
 
 our $VERSION = '0.002';
 
