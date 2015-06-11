@@ -3,6 +3,8 @@ use warnings;
 package MooseX;
 # ABSTRACT: Document the MooseX namespace
 
+our $VERSION = '0.002';
+
 1;
 __END__
 
