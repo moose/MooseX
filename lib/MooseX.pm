@@ -37,14 +37,6 @@ do it.
 (This documentation is a preliminary placeholder for more information. Patches
 welcome!)
 
-=head1 SUPPORT
-
-=for stopwords irc
-
-Bugs may be submitted through L<the RT bug tracker|https://rt.cpan.org/Public/Dist/Display.html?Name=MooseX>
-(or L<bug-MooseX@rt.cpan.org|mailto:bug-MooseX@rt.cpan.org>).
-I am also usually active on irc, as 'ether' at C<irc.perl.org>.
-
 =head1 SEE ALSO
 
 =for :list
